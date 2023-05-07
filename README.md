@@ -1,4 +1,4 @@
-Hi 👋 My name is Prasanna A
+Hi 👋 Myself Prasanna A
 ===========================
 
 Data Analyst
@@ -6,7 +6,7 @@ Data Analyst
 
 * 🌍  I'm based in Chennai,India
 * ✉️  You can contact me at [praskanna@gmail.com](mailto:praskanna@gmail.com)
-* 🧠  I'm learning Machine Learning, Deep Learning and AI.
+* 🧠  Data Science Enthusiast
 
 ### Skills
 
